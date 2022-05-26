@@ -15,7 +15,7 @@ pycparser==2.21
 pyOpenSSL==22.0.0
 service-identity==21.1.0
 six==1.16.0
-Twisted==22.4.0rc1
+Twisted==22.4.0
 txaio==22.2.1
 typing_extensions==4.1.1
 zope.interface==5.4.0
